@@ -1,7 +1,7 @@
 /* 
 				Stochastic Dominance Analysis of Ordinal Data
 
-Deriving Cumulative Distribution Functions (CDF) based Jenkins(2020)	 */
+Deriving Cumulative Distribution Functions (CDF) based on Jenkins(2020)	 */
 
 /*
 Notes: 
